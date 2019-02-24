@@ -7,10 +7,10 @@
 ### To run the fitness app, run the fitnessApp.jar in the 'dist' folder / run the HFGUI.java file in the 'src' folder using Netbeans. JRE is needed to run the program.
 
 ### The use cases for this program are shown at below: 
-<img src="https://github.com/AdrianFoo97/BIT210-Web-Programming/blob/master/signin.png" width="1000" height="500">
+<img src="https://github.com/AdrianFoo97/BIT203-Java-Programming/blob/master/usecase.png" width="500" height="500">
 
 ### The main page of the program: 
-<img src="https://github.com/AdrianFoo97/BIT210-Web-Programming/blob/master/signin.png" width="1000" height="500">
+<img src="https://github.com/AdrianFoo97/BIT203-Java-Programming/blob/master/main.png" width="300" height="500">
 
 
 
