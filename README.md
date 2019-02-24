@@ -4,7 +4,9 @@
 
 ### This project is a program for fitness center to manage their member and training session. 
 
-### To run the fitness app, run the fitnessApp.jar in the 'dist' folder / run the HFGUI.java file in the 'src' folder using Netbeans. JRE is needed to run the program.
+### To run the fitness app, try the following steps: 
+1. Run the fitnessApp.jar in the 'dist' folder (JRE need to be installed)
+2. Run the HFGUI.java file in the 'src' folder using Netbeans. 
 
 ### The use cases for this program are shown at below: 
 <img src="https://github.com/AdrianFoo97/BIT203-Java-Programming/blob/master/usecase.png" width="500" height="500">
