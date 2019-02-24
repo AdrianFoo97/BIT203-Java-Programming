@@ -1,8 +1,8 @@
 # BIT203-Java-Programming
 
-## This project is for the subject JAVA PROGRAMMING in year 2. Object-oriented programming is used in this project.
+## Project for my Java Programming subject during year 2 in college. Object-oriented approach is used to develop this project.
 
-### This project is a program for fitness center to manage their member and training session. 
+### This program is developed using JAVA for a fitness center.
 
 ### To run the fitness app, try the following steps: 
 1. Run the fitnessApp.jar in the 'dist' folder (JRE need to be installed)
